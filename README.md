@@ -11,7 +11,7 @@
 
 Most of my code written has been academic, you can see a list of research projects here:
 
-<a href="https://media.licdn.com/dms/document/media/C512DAQFyvYyKG89LWA/profile-treasury-document-pdf-analyzed/0/1583943420957?e=1724284800&v=beta&t=tF9ANQnGf0hAJAdcq_d7uC6hs1VellNb2pP8hhz-DnU"> Research Projects </a>
+🔬 <a href="https://media.licdn.com/dms/document/media/C512DAQFyvYyKG89LWA/profile-treasury-document-pdf-analyzed/0/1583943420957?e=1724284800&v=beta&t=tF9ANQnGf0hAJAdcq_d7uC6hs1VellNb2pP8hhz-DnU"> Research Projects </a>
 
 
 You can also check some of the code projects I like down on this link:
