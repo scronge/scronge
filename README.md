@@ -11,7 +11,6 @@ If you would like to encourage a random soul to continue doing math you can do a
 - 💞️ I’m looking to collaborate on machine learning, math modeling and discrete math (graph theory, linear algebra, combinatorics)
 - 📫 How to reach me at my email : name this animal https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHF3g_LO85mPZVqkwZpJ7Z1bMQ_tYg-zvkatEXXYXHPSIYgqce , change the 'c' to a 'k', and then " 733 at G " 
 
-<!---
-scronge/scronge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+You can also check some of the code projects I like in 
+✨ https://github.com/scronge?tab=stars 
