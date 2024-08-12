@@ -7,7 +7,7 @@
 - 👀 I’m interested in math, science, and tech
 - 🌱 I’m currently learning AI & Stats at the PhD level while teaching some advanced math courses
 - 💞️ I’m looking to collaborate on machine learning, math modeling and discrete math (graph theory, linear algebra, combinatorics)
-- 📫 How to reach me at my email : name this animal https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHF3g_LO85mPZVqkwZpJ7Z1bMQ_tYg-zvkatEXXYXHPSIYgqce , change the 'c' to a 'k', and then " 733 at G " 
+- 📫 How to reach me at my email : name <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHF3g_LO85mPZVqkwZpJ7Z1bMQ_tYg-zvkatEXXYXHPSIYgqce">this animal </a> , change the 'c' to a 'k', and then " 733 at G " 
 
 Most of my code written has been academic, you can see a list of research projects here:
 
