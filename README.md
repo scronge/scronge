@@ -12,5 +12,6 @@ If you would like to encourage a random soul to continue doing math you can do a
 - 📫 How to reach me at my email : name this animal https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHF3g_LO85mPZVqkwZpJ7Z1bMQ_tYg-zvkatEXXYXHPSIYgqce , change the 'c' to a 'k', and then " 733 at G " 
 
 
-You can also check some of the code projects I like in 
+You can also check some of the code projects I like down on this link:
+
 ✨ https://github.com/scronge?tab=stars 
