@@ -5,18 +5,18 @@
 
 - 👋 Hi, I’m @scronge
 - 👀 I’m interested in math, science, and tech
-- 🌱 I’m currently learning AI & Stats at the PhD level while teaching some advanced math courses
+- 🌱 I’m currently learning AI & Stats at the PhD level
 - 💞️ I’m looking to collaborate on machine learning, math modeling and discrete math (graph theory, linear algebra, combinatorics)
 - 📫 How to reach me at my email : name <a href="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHF3g_LO85mPZVqkwZpJ7Z1bMQ_tYg-zvkatEXXYXHPSIYgqce">this animal </a> , change the 'c' to a 'k', and then " 733 at G " 
 
 Most of my code written has been academic, you can see a list of research projects here:
 
-🔬 <a href="https://media.licdn.com/dms/document/media/C512DAQFyvYyKG89LWA/profile-treasury-document-pdf-analyzed/0/1583943420957?e=1724284800&v=beta&t=tF9ANQnGf0hAJAdcq_d7uC6hs1VellNb2pP8hhz-DnU"> Research Projects </a>
+- 🔬 <a href="https://media.licdn.com/dms/document/media/C512DAQFyvYyKG89LWA/profile-treasury-document-pdf-analyzed/0/1583943420957?e=1724284800&v=beta&t=tF9ANQnGf0hAJAdcq_d7uC6hs1VellNb2pP8hhz-DnU"> Research Projects </a>
 
 
 You can also check some of the code projects I like down on this link:
 
-✨ https://github.com/scronge?tab=stars 
+- ✨ https://github.com/scronge?tab=stars 
 
 
 <p align="left">
