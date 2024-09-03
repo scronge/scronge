@@ -19,7 +19,9 @@ You can also check some of the code projects I like down on this link:
 - ✨ https://github.com/scronge?tab=stars 
 
 
+You can also [sponsor me on GitHub](https://github.com/sponsors/scronge/).
+
+
 <p align="left">
   <a href="https://github.com/sponsors/scronge/"><img alt="GitHub Sponsor" title="GitHub Sponsor" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23E05D44&style=for-the-badge"/></a>
 </p>
-You can also [sponsor me on GitHub](https://github.com/sponsors/scronge/).
