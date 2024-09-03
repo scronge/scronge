@@ -22,4 +22,4 @@ You can also check some of the code projects I like down on this link:
 <p align="left">
   <a href="https://github.com/sponsors/scronge/"><img alt="GitHub Sponsor" title="GitHub Sponsor" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23E05D44&style=for-the-badge"/></a>
 </p>
-And if you have more money than you know what to spend on, or would like to encourage a random soul to continue doing math you can [sponsor me on GitHub](https://github.com/sponsors/scronge/).
+You can also [sponsor me on GitHub](https://github.com/sponsors/scronge/).
