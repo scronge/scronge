@@ -18,7 +18,7 @@ Most of my code written has been academic, you can see a list of research projec
 
 You can also check some of the code projects I like down on this link:
 
-- ✨ https://github.com/scronge?tab=stars 
+- ✨ <a href="https://github.com/scronge?tab=stars"> My GitHub Stars</a>
 
 
 You can also [sponsor me on GitHub](https://github.com/sponsors/scronge/).
