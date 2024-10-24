@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @scronge
 - 👀 I’m interested in math, science, and tech
-- 🌱 I’m currently learning AI & Stats at the PhD level
+- 🌱 I’m currently learning graduate AI & Stats
 - 💞️ I’m looking to collaborate on machine learning, math modeling and discrete math (graph theory, linear algebra, combinatorics)
 
 Most of my code written has been academic, you can see a list of research projects on my LinkedIn page
