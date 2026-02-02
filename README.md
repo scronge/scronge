@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @scronge
 - 👀 I’m interested in math, science, and tech
-- 🌱 I’m currently mastering Stats
+- 🌱 I’m currently mastering Stats & Deep Learning
 - 💞️ I’m looking to collaborate on ML&AI, math modeling and optimization
 - 🖥️ Discrete Math is bomb.
 
